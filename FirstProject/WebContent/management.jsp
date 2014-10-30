@@ -5,7 +5,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-첫번째 프로젝트
-<a href="management.jsp">관리 페이지</a>
+
+과....관리기능 완셩...
+
 </body>
 </html>
